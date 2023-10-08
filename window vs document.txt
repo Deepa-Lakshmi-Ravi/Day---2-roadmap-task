@@ -1,0 +1,26 @@
+Window Object :
+
+     Window is the main JavaScript object root, The window object represents the browser window and serves as 
+the global object in client-side JavaScript. It encapsulates the entire
+browser window, including tabs, frames, and iframes. The window object 
+provides access to various properties and methods related to the browser 
+environment, such as opening new windows, resizing, scrolling, and 
+interacting with the browser's history.
+
+Syntax :
+
+    window.property_name;
+
+Document Object :
+
+     The document object represents a web page that is loaded in the 
+browser. It provides access to the HTML content of the page and allows 
+you to manipulate the structure, content, and styling using the
+Document Object Model (DOM). Through the document object, you
+can access elements, modify their attributes and content, and respond to 
+user interactions. The document object can be accessed with a 
+window.document or just document.
+
+Syntax :
+
+    document.property_name;
